@@ -1,2 +1,2 @@
-# app-ads.txt for Wild Run Hyper Rush (com.geekyonai.hyperrush) by GeekyOnAi
+# app-ads.txt for Wild Run Hyper Rush (com.geekyonai.hyperrush) by Hyper FunGames TG
 # Paste below this line the entries that the LevelPlay dashboard gives you (one line per ad network).
