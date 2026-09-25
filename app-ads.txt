@@ -1,6 +1,6 @@
 # app-ads.txt - Wild Run Hyper Rush (com.hyperfungamestg.wildrunhyperrush) - Hyper FunGames TG
 OWNERDOMAIN=hyperfungamestg.github.io
-ironsrc.com, PUBLISHER_ID, DIRECT
+ironsrc.com, 686507, DIRECT
 # ironSource authorized resellers (official list, docs.unity.com, updated 2026-09-21)
 media.net, 8CUH2L333, RESELLER
 sharethrough.com, 3817, RESELLER, d53b998a7bd4ecd2
